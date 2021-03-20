@@ -1,2 +1,8 @@
 # stunning-pancake
-aws user data
+aws user data scripts
+
+# Features
+* docker
+* java
+* git
+* nodejs
